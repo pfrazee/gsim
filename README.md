@@ -1,8 +1,8 @@
 # gsim
 
-## [Talk at !!con: Simulated gravity comes from within](https://youtu.be/wGB5AYvFjxE?t=7628)
+### [Talk at !!con: Simulated gravity comes from within](https://youtu.be/wGB5AYvFjxE?t=7628)
 
-## [Try it](https://pfrazee.github.io/gsim/)
+### [Try the simulation](https://pfrazee.github.io/gsim/)
 
 ## What is this?
 
